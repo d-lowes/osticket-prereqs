@@ -115,4 +115,4 @@ This guide provides comprehensive instructions for setting up osTicket, an open-
 
 Congratulations! You should now have a fully functional osTicket installation on your Windows 10 Azure VM. Access your help desk via `http://localhost/osTicket/scp/login.php` for the admin panel, and `http://localhost/osTicket/` for the user portal.
 
-Remember, this tutorial assumes a certain level of familiarity with Azure, IIS, and web server administration. Adjustments might be needed based on your specific environment or osTicket version updates/
+Remember, this tutorial assumes a certain level of familiarity with Azure, IIS, and web server administration. Adjustments might be needed based on your specific environment or osTicket version updates.
