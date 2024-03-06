@@ -117,4 +117,4 @@ Congratulations! You should now have a fully functional osTicket installation on
 
 Remember, this tutorial assumes a certain level of familiarity with Azure, IIS, and web server administration. Adjustments might be needed based on your specific environment or osTicket version updates.
 
-Now that you have osTicket up and ready, it's time to [create a simulated help desk environment](https://github.com/d-lowes/osticket-post-install-config)https://github.com/d-lowes/osticket-post-install-config!
+Now that you have osTicket up and ready, it's time to [create a simulated help desk environment](https://github.com/d-lowes/osticket-post-install-config)!
